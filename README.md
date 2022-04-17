@@ -1,3 +1,2 @@
 # Predict-for-TESLA's-stock-price
-Predict for TESLA's stock price
-Using Linear Regression method
+Use Linear Regression method to predict for TESLA's stock price
